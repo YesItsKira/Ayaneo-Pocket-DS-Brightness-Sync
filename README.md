@@ -36,3 +36,7 @@ The Pocket DS has two seperate brightness sliders for the top and bottom screens
 - Calibration is **device-specific** and depends on your displays, ambient light, and personal perception.
 - Best results come from calibrating in the lighting conditions you use most often.
 
+
+I dont charge for any of my projects and make them free for the communities they are in. If you like my stuff, id appreciate a tip!
+
+https://ko-fi.com/yesitskira
